@@ -1,0 +1,41 @@
+React Phone E-Commerce Project
+
+
+Bracket Pair Colorized
+
+
+1. Create React App
+npx create-react-app estore	// create React app
+code . //open VSC
+2.1. Install Bootstrap
+npm install --save bootstrap 
+2.2. Add to App.js
+import 'bootstrap/dist/css/bootstrap.min.css'
+
+3. Google Fonts: oswald, Permanent Marker
+Add in the <head> of /public/index.html 
+<!--goole fonts-->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald&family=Permanent+Marker&display=swap" rel="stylesheet">
+
+4. Font Awesome
+-> Start for Free
+Download fontawesome.zip and in public folder of project
+Add in the <head> of /public/index.html
+  <!--font awesome-->
+    <link rel="stylesheet" href="./fontawesome/css/all.css">
+
+5. 
+npm install --save react-router-dom
+
+6.
+iconfinder.com
+
+7.
+styled-components.com
+npm install --save styled components
+
+1:14:56
+1:41:37
+2:25:45
+
